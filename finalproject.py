@@ -1,3 +1,1 @@
-# print("Hello Kevin")
-# print("Hello Alex")
-
+# I am working on strings arrays and numbers
